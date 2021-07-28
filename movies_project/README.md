@@ -1,0 +1,1 @@
+https://github.com/Sewar-web/drf-auth/pull/1 
